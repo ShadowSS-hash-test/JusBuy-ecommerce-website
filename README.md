@@ -5,8 +5,7 @@ A minimalistic, full‑stack **MERN** e‑commerce application with role‑based
 ---
 
 ## 🌟 Live Demo
-
-https://fluffy-figolla-9d99a4.netlify.app
+(https://jusbuy-ecommerce-website.onrender.com/)
 
 ---
 
@@ -24,8 +23,7 @@ https://fluffy-figolla-9d99a4.netlify.app
   - Add, remove, update quantity, and view order summary  
 - **Responsive UI**  
   - Mobile‑first, minimal white/black Tailwind design  
-- **Stripe Checkout**  
-  - Demo “Proceed to Checkout” flow with automatic token refresh  
+
 
 ---
 
