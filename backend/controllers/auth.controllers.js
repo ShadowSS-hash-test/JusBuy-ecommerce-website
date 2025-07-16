@@ -99,7 +99,7 @@ export const login = async(req,res)=>{
             const user = await User.findOne({email:email})
             if(!user || ! (await user.comparePassword(password)))
             {
-                return res.status(401).json({
+                return res.status(400).json({
                     message:"Incorrect email or password"
                 })
             }
